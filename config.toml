@@ -1,4 +1,4 @@
-baseURL = "https://lukeh17.github.io/"
+baseURL = "https://lukehonnold.com/"
 languageCode = "en-us"
 title = ""
 theme = "kross-hugo"
@@ -28,7 +28,12 @@ link = "plugins/google-map/map.js"
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 3
+weight = 2
+
+#[[menu.main]]
+#URL = "resume"
+#name = "Resume"
+#weight = 3
 
 # default parameters
 [params]
@@ -45,7 +50,7 @@ address = "3841 54th St Des Moines IA 50310"
 
 # meta description
 author = "Luke Honnold"
-description = "This is meta description"
+description = ""
 
 # google analytics
 google_analytics_id = "" # Your ID

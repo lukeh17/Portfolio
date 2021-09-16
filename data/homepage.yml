@@ -5,8 +5,7 @@ banner:
 
 # about
 about:
-  enable : true
-  content : "I am a student at Drake University studying computer science and UI UX design"
+  enable : false
  # button:
   #  enable : true
    # label : "know more"
@@ -14,7 +13,7 @@ about:
 
 # skill
 skill:
-  enable : true
+  enable : false
   title : "Skills"
   item:
     - title : "Design"
